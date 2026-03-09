@@ -156,3 +156,4 @@ with col1:
         map_style="mapbox://styles/mapbox/dark-v10",
         tooltip={"text": "City: {City}\nRisk: {risk}"}
     ))
+
